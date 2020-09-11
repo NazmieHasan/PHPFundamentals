@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="ebfc6963-96b0-4a6b-ad09-4808f59f9873" name="Default Changelist" comment="" />
+    <list default="true" id="ebfc6963-96b0-4a6b-ad09-4808f59f9873" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -39,6 +41,9 @@
       <option name="presentableId" value="Default" />
       <updated>1599716391570</updated>
       <workItem from="1599716397341" duration="17481000" />
+      <workItem from="1599742635583" duration="584000" />
+      <workItem from="1599764245954" duration="6331000" />
+      <workItem from="1599814674555" duration="10784000" />
     </task>
     <servers />
   </component>
@@ -46,10 +51,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="518" y="286" key="NewPhpFileDialog" timestamp="1599729456659">
+    <state x="518" y="286" key="NewPhpFileDialog" timestamp="1599825730163">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="518" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599729456659" />
+    <state x="518" y="286" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599825730163" />
     <state x="680" y="157" key="run.anything.popup" timestamp="1599729062579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
