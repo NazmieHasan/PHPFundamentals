@@ -3,6 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ebfc6963-96b0-4a6b-ad09-4808f59f9873" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseVI/clothes.php" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseVI/clothes.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -32,6 +33,11 @@
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\PHPFundamentals\ExerciseV" />
+    </key>
+  </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -45,6 +51,8 @@
       <workItem from="1599764245954" duration="6331000" />
       <workItem from="1599814674555" duration="10784000" />
       <workItem from="1599901063630" duration="16241000" />
+      <workItem from="1599942895501" duration="2731000" />
+      <workItem from="1599982801678" duration="13562000" />
     </task>
     <servers />
   </component>
@@ -52,10 +60,10 @@
     <option name="version" value="3" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="399" key="NewPhpFileDialog" timestamp="1599916839665">
+    <state x="624" y="399" key="NewPhpFileDialog" timestamp="1600000015315">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="624" y="399" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1599916839665" />
+    <state x="624" y="399" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1600000015315" />
     <state x="680" y="157" key="run.anything.popup" timestamp="1599729062579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

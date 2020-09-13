@@ -45,5 +45,5 @@ $totalSum = array_sum($boughtItems) + $budget;
 if ($totalSum >= 150) {
     echo "Hello, France!" . PHP_EOL;
 } else {
-    echo "Tome to go." . PHP_EOL;
+    echo "Time to go." . PHP_EOL;
 }
