@@ -49,6 +49,3 @@ echo $bandToPrint.PHP_EOL;
 foreach ($bands[$bandToPrint] as $members) {
     echo "=> $member".PHP_EOL;
 }
-
-
-
