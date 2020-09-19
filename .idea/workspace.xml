@@ -1,9 +1,26 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="REMOTE_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="GROUP_NODE:origin" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="ebfc6963-96b0-4a6b-ad09-4808f59f9873" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ExerciseIX/concert.php" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseIX/concert.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,17 +79,29 @@
       <workItem from="1600403714877" duration="5685000" />
       <workItem from="1600410488900" duration="8788000" />
       <workItem from="1600430498419" duration="9215000" />
+      <workItem from="1600497552419" duration="15680000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="399" key="NewPhpFileDialog" timestamp="1600436739193">
+    <state x="624" y="399" key="NewPhpFileDialog" timestamp="1600516073765">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="624" y="399" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1600436739193" />
+    <state x="624" y="399" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1600516073765" />
     <state x="680" y="157" key="run.anything.popup" timestamp="1599729062579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
