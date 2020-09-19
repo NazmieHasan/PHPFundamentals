@@ -1,10 +1,9 @@
 <?php
 
-Class Student {
+class Student {
     private $name;
     private $grades;
     private $avgGrade;
-
 
     /**
      * Student constructor.
@@ -77,16 +76,3 @@ foreach ($students as $st) {
         echo "$name -> $avg\n";
     }
 }
-
-
-
-
-
-
-
-
-
-
-
-
-

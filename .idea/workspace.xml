@@ -21,6 +21,7 @@
   <component name="ChangeListManager">
     <list default="true" id="ebfc6963-96b0-4a6b-ad09-4808f59f9873" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/ExerciseVI/average-grades.php" beforeDir="false" afterPath="$PROJECT_DIR$/ExerciseVI/average-grades.php" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +49,8 @@
     <property name="node.js.path.for.package.tslint" value="project" />
     <property name="node.js.selected.package.eslint" value="(autodetect)" />
     <property name="node.js.selected.package.tslint" value="(autodetect)" />
-    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -79,7 +81,12 @@
       <workItem from="1600403714877" duration="5685000" />
       <workItem from="1600410488900" duration="8788000" />
       <workItem from="1600430498419" duration="9215000" />
-      <workItem from="1600497552419" duration="15680000" />
+      <workItem from="1600497552419" duration="15933000" />
+      <workItem from="1600525035424" duration="2000" />
+      <workItem from="1600527106351" duration="873000" />
+      <workItem from="1600528196912" duration="1729000" />
+      <workItem from="1600543149515" duration="3445000" />
+      <workItem from="1600546739695" duration="101000" />
     </task>
     <servers />
   </component>
@@ -96,12 +103,21 @@
         </entry>
       </map>
     </option>
+    <option name="oldMeFiltersMigrated" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="624" y="399" key="NewPhpFileDialog" timestamp="1600516073765">
+    <state x="748" y="71" key="#com.intellij.ide.util.MemberChooser" timestamp="1600529372478">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="624" y="399" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1600516073765" />
+    <state x="748" y="71" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1600529372478" />
+    <state x="624" y="399" key="NewPhpFileDialog" timestamp="1600544651313">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="624" y="399" key="NewPhpFileDialog/0.0.1366.728@0.0.1366.728" timestamp="1600544651313" />
+    <state x="184" y="0" key="SettingsEditor" timestamp="1600546837436">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1600546837436" />
     <state x="680" y="157" key="run.anything.popup" timestamp="1599729062579">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
